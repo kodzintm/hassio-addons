@@ -6,3 +6,10 @@
 - ⬆️ Bump setuptools from 67.3.2 to 67.4.0 in /tvheadend @dependabot (#207)
 - ⬆️ Bump actions/cache from 3.2.5 to 3.2.6 @dependabot (#206)
 - ⬆️ Bump streamlink from 5.2.1 to 5.3.1 in /tvheadend @dependabot (#208)
+
+Poprowione mapownie:
+  - /dev/dvb/adapter0/demux0
+  - /dev/dvb/adapter0/dvr0
+  - /dev/dvb/adapter0/frontend0
+  - /dev/dvb/adapter0/net0
+  - /dev/dri
