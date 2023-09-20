@@ -22,7 +22,7 @@ https://github.com/kodzintm/hassio-addons
 
 ## Add-ons provided by this repository
 
-### &#10003; [TVHeadend][addon-tvheadend] ![Latest Version][tvheadend-version-shield] [TV streaming server and recorder.]
+### &#10003; [TVHeadend][addon-tvheadend] ! TV streaming server and recorder. ![Latest Version][tvheadend-version-shield] 
 ### &#10003; [TVHeadend][addon-tvheadend] ![Latest Version][tvheadend-version-shield] [TV streaming server and recorder.]
 
 
@@ -47,6 +47,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fkodzintm%2Fhassio-addons
 
 [addon-tvheadend]: https://github.com/kodzintm/TVheadend/
-[addon-doc-tvheadend]: https://github.com/kodzintm/addon-tvheadend/blob/v2.4.4/README.md
-[tvheadend-issue]: https://github.com/kodzintm/addon-tvheadend/issues
 [tvheadend-version-shield]: https://img.shields.io/badge/version-v2.4.4-blue.svg
