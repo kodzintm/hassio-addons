@@ -27,7 +27,6 @@ https://github.com/kodzintm/hassio-addons
 
 
 
-## Releases
 
 Thank you for being involved! :heart_eyes:
 
