@@ -46,3 +46,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fkodzintm%2Fhassio-addons
+
+[addon-tvheadend]: https://github.com/kodzintm/TVheadend/
+[addon-doc-tvheadend]: https://github.com/kodzintm/addon-tvheadend/blob/v2.4.4/README.md
+[tvheadend-issue]: https://github.com/kodzintm/addon-tvheadend/issues
+[tvheadend-version-shield]: https://img.shields.io/badge/version-v2.4.4-blue.svg
