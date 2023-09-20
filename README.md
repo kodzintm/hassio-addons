@@ -22,8 +22,8 @@ https://github.com/kodzintm/hassio-addons
 
 ## Add-ons provided by this repository
 
-#### &#10003; [SambaNAS][sambanas-add] File server. ![Latest Version][sambanas-shield]
-#### &#10003; [TVHeadend][tvheadend-add] TV streaming server and recorder. ![Latest Version][tvheadend-shield]
+#### &#10003; ![Latest Version][sambanas-shield] [SambaNAS][sambanas-add] File server.
+#### &#10003; ![Latest Version][tvheadend-shield] [TVHeadend][tvheadend-add] TV streaming server and recorder.
 
 
 
