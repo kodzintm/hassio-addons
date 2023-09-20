@@ -5,6 +5,54 @@
 [![License][license-shield]](LICENSE)
 
 
+## About
+This is a collection of Add-ons that I use or experiment with.
+
+
+## Installation
+
+Adding this add-ons repository to your Home Assistant instance is pretty easy. In the Home Assistant add-on store, a possibility to add a repository is provided.
+Use the following URL to add this repository:
+
+```txt
+https://github.com/kodzintm/hassio-addons
+```
+
+[![Opens your Home Assistant instance and show the add add-on repository dialog with the repository URL pre-filled](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)][my-ha-add-repo]
+
+## Add-ons provided by this repository
+
+### &#10003; [TVHeadend][addon-tvheadend] ![Latest Version][tvheadend-version-shield]
+
+TV streaming server and recorder.
+
+[:books: TVHeadend add-on documentation][addon-doc-tvheadend]
+
+## Releases
+
+Thank you for being involved! :heart_eyes:
+
+## License
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
