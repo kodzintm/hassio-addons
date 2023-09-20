@@ -22,8 +22,8 @@ https://github.com/kodzintm/hassio-addons
 
 ## Add-ons provided by this repository
 
-### &#10003; [TVHeadend][addon-tvheadend] ! TV streaming server and recorder. ![Latest Version][tvheadend-version-shield] 
-### &#10003; [TVHeadend][addon-tvheadend] ![Latest Version][tvheadend-version-shield] [TV streaming server and recorder.]
+### &#10003; [TVHeadend][addon-tvheadend] TV streaming server and recorder. ![Latest Version][tvheadend-version-shield]
+#### &#10003; [TVHeadend][addon-tvheadend] TV streaming server and recorder. ![Latest Version][tvheadend-version-shield]
 
 
 
