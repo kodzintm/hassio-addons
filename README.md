@@ -22,8 +22,8 @@ https://github.com/kodzintm/hassio-addons
 
 ## Add-ons provided by this repository
 
+#### &#10003; [SambaNAS][sambanas-add] File server. ![Latest Version][sambanas-shield]
 #### &#10003; [TVHeadend][tvheadend-add] TV streaming server and recorder. ![Latest Version][tvheadend-shield]
-#### &#10003; [TVHeadend][sambanas-add] TV streaming server and recorder. ![Latest Version][sambanas-shield]
 
 
 
@@ -47,6 +47,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fkodzintm%2Fhassio-addons
 
 [sambanas-add]: https://github.com/kodzintm/SambaNAS/
-[sambanas-shield]: https://img.shields.io/badge/version-v2.4.4-blue.svg
+[sambanas-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
 [tvheadend-add]: https://github.com/kodzintm/TVheadend/
 [tvheadend-shield]: https://img.shields.io/badge/version-v2.4.4-blue.svg
